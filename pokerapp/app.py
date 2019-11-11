@@ -6,4 +6,3 @@ def run():
     data = data_loader(DATA_SOURCE)
     result = evaluator(data)
     print(result)
-run()

@@ -18,7 +18,7 @@ All hands are valid (no invalid characters or repeated cards), each player’s h
 ## Running
 1) Open Terminal
 2) Access pokerapp folder
-3) Run 'python3 app.py'
+3) Run 'python3 __main__.py'
 
 ## Expected results
 A message printing "Player 1 has won 544 hands out of 2000. Therefore, Player 2 has won 1456." 

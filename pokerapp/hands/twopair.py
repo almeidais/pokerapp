@@ -6,6 +6,4 @@ def twopair(hand):
     pairs = [f for f in allftypes if allfaces.count(f) == 2]
     if len(pairs) != 2:
         return False
-    p0, p1 = pairs
-    other = [(allftypes - set(pairs)).pop()]
     return 'twopair'
